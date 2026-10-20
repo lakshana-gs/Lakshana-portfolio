@@ -10,14 +10,17 @@ const experienceData = {
     id: "infosys-springboard",
     year: "2026",
     organization: "INFOSYS SPRINGBOARD",
-    program: "Virtual Internship 7.0",
+    program: "Virtual Internship 7.0 (Cohort B1)",
     role: "Virtual Intern",
+    track: "Agentic AI for Safety Monitoring with Construction Risk Analytics",
+    period: "June 29, 2026 – August 31, 2026",
     project: "ConstructIQ AI",
-    description: "Selected for the Infosys Springboard Virtual Internship 7.0, where I worked on ConstructIQ AI — a construction intelligence platform focused on AI-assisted project risk, safety, compliance, material estimation, and rework intelligence.",
-    tags: ["AI", "SOFTWARE", "CONSTRUCTION INTELLIGENCE"],
+    description: "Selected for the Infosys Springboard Virtual Internship 7.0 (Cohort B1) in Agentic AI for Safety Monitoring with Construction Risk Analytics (conducted June 29 – August 31, 2026). Architected ConstructIQ AI — an enterprise-grade construction intelligence platform powered by autonomous multi-agent systems for continuous onsite safety hazard surveillance, automated OSHA & regulatory compliance verification, precision material estimation, and proactive rework risk mitigation.",
+    tags: ["AGENTIC AI", "RISK ANALYTICS", "SAFETY MONITORING", "LLM AGENTS"],
     projectAnchor: "#project-constructiq",
     certificateUrl: "assets/certificates/InfosysSpringBoard7.0.pdf",
-    hasCertificate: true
+    hasCertificate: true,
+    verificationUrl: "https://verify.onwingspan.com"
   },
   learning: [
     {
