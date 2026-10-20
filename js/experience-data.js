@@ -15,7 +15,9 @@ const experienceData = {
     project: "ConstructIQ AI",
     description: "Selected for the Infosys Springboard Virtual Internship 7.0, where I worked on ConstructIQ AI — a construction intelligence platform focused on AI-assisted project risk, safety, compliance, material estimation, and rework intelligence.",
     tags: ["AI", "SOFTWARE", "CONSTRUCTION INTELLIGENCE"],
-    projectAnchor: "#project-constructiq"
+    projectAnchor: "#project-constructiq",
+    certificateUrl: "assets/certificates/InfosysSpringBoard7.0.pdf",
+    hasCertificate: true
   },
   learning: [
     {
