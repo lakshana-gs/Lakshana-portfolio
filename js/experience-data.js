@@ -15,7 +15,7 @@ const experienceData = {
     track: "Agentic AI for Safety Monitoring with Construction Risk Analytics",
     period: "June 29, 2026 – August 31, 2026",
     project: "ConstructIQ AI",
-    description: "Selected for the Infosys Springboard Virtual Internship 7.0 (Cohort B1) in Agentic AI for Safety Monitoring with Construction Risk Analytics (conducted June 29 – August 31, 2026). Architected ConstructIQ AI — an enterprise-grade construction intelligence platform powered by autonomous multi-agent systems for continuous onsite safety hazard surveillance, automated OSHA & regulatory compliance verification, precision material estimation, and proactive rework risk mitigation.",
+    description: "Selected for Infosys Springboard Virtual Internship 7.0 (Cohort B1), where I engineered ConstructIQ AI — an agentic construction intelligence platform leveraging autonomous multi-agent AI for onsite safety monitoring, regulatory compliance, material estimation, and risk analytics.",
     tags: ["AGENTIC AI", "RISK ANALYTICS", "SAFETY MONITORING", "LLM AGENTS"],
     projectAnchor: "#project-constructiq",
     certificateUrl: "assets/certificates/InfosysSpringBoard7.0.pdf",
