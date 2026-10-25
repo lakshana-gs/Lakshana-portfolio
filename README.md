@@ -85,8 +85,8 @@ Then open [http://localhost:8080](http://localhost:8080) in your browser.
 
 ## 📬 Contact & Connect
 
-- **Portfolio**: [Lakshana G S](https://lakshanaganesh08-source.github.io/Lakshana-portfolio/)
-- **GitHub**: [@lakshanaganesh08-source](https://github.com/lakshanaganesh08-source)
+- **Portfolio**: [Lakshana G S](https://lakshana-gs.github.io/Lakshana-portfolio/)
+- **GitHub**: [@lakshana-gs](https://github.com/lakshana-gs)
 
 ---
 © Lakshana G S. All rights reserved.

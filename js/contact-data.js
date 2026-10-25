@@ -26,7 +26,7 @@ const contactData = {
   // Verified social & developer profiles
   socials: [
     { name: "LinkedIn", url: "https://www.linkedin.com/in/lakshana-g-s-533987328", isAvailable: true },
-    { name: "GitHub", url: "https://github.com/lakshanaganesh08-source", isAvailable: true }
+    { name: "GitHub", url: "https://github.com/lakshana-gs", isAvailable: true }
   ]
 };
 

@@ -36,7 +36,7 @@ const portfolioProjects = [
       hasRealScreenshot: true
     },
     links: {
-      github: "https://github.com/lakshanaganesh08-source/ConstructIQ_AI",
+      github: "https://github.com/lakshana-gs/ConstructIQ_AI",
       demo: null,
       caseStudy: null
     }
